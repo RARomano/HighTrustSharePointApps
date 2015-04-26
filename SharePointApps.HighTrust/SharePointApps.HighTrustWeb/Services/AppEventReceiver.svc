@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="SharePointApps.HighTrustWeb.Services.AppEventReceiver" CodeBehind="AppEventReceiver.svc.cs" %>
